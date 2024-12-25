@@ -1,0 +1,9 @@
+source,target,label,transport,duree
+001v,002v,Direct,Chemin de fer et paquebot,Sept jours
+002v,003v,Direct,Paquebot,Treize jours
+003v,004v,Direct,Chemin de fer et elephant,Trois jours
+004v,005v,Direct,Paquebot,Treize jours
+005v,006v,Direct,Paquebot,Six jours
+006v,007v,Direct,Paquebot,Vingt-deux jours
+007v,008v,Direct,Chemin de fer et sloop,Sept jours
+008v,001v,Direct,Paquebot et chemin de fer,Neuf jours
